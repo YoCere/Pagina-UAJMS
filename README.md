@@ -32,7 +32,8 @@ La página web de mi universidad tiene como objetivo proporcionar a los estudian
 
 ## 🌐 Ver ejemplo en vivo
 
-
+🌐 Pulsa el link para ver la pagina Web. 
+ https://yocere.github.io/Pagina-UAJMS/
 
 ## 📧 Contacto
 
